@@ -1,15 +1,17 @@
-//Synthesis
+Synthesis
+
+= First level title
 
 == Executive Summary
 '''
 === Objective
 '''
 
-//[red]#Todo: review#
+[red]#Todo: review#
 
 This document is a synthesis addressing one of the 8 critical _Technologies_ identified for the development of the ((eHorizon)) Project, namely the *Advanced Cartography Technology*, required, for example, for autonomous driving.
 
-The objective of this document is to provide a synthesis about:
+The objective of this document is to make a test of the github editor (ascii doc format ?):
 
 	* Specifications for algorithm portability
 	* Requirements for the embedded platform
